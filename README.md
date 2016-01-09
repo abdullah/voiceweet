@@ -1,6 +1,8 @@
 # voiceweet
 Simple voice to text share
 
+![Alt text](/g.gif)
+
 
 ```
 git clone https://github.com/iltegin/voiceweet.git
