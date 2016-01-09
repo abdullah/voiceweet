@@ -1,7 +1,8 @@
 # voiceweet
 Simple voice to text share
 
-![Alt text](/g.gif)
+
+![Alt text](www/img/x350q.gif?raw=true "Optional Title")
 
 
 ```
